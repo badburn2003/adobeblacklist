@@ -318,8 +318,9 @@
 0.0.0.0 stls.adobe.com-cn.edgesuite.net
 0.0.0.0 stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 0.0.0.0 use-stls.adobe.com.edgesuite.net
-0.0.0.0 9ngulmtgqi.adobe.io
-0.0.0.0 cd536oo20y.adobe.io
-0.0.0.0 3ca52znvmj.adobe.io
 0.0.0.0 ic.adobe.io
 0.0.0.0 r3zj0yju1q.adobe.io
+0.0.0.0 cd536oo20y.adobe.io
+0.0.0.0 3ca52znvmj.adobe.io
+0.0.0.0 5zgzzv92gn.adobe.io
+0.0.0.0 r5hacgq5w6.adobe.io
